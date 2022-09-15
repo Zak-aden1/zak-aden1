@@ -7,7 +7,7 @@ FullStack Developer
 * 🌍  I'm based in Birmingham
 * 🖥️  See my portfolio at [https://zak-aden1.github.io/my-portfolio/](http://zak-aden1.github.io/my-portfolio/)
 * ✉️  You can contact me at [s.aden159@gmail.com](mailto:s.aden159@gmail.com)
-* 🧠  I'm learning Node.JS
+* 🧠  I'm learning Python
 
 ### Skills
 
